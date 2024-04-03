@@ -61,7 +61,7 @@
         <p>Your account has been locked Permanent due to multiple unsuccessful login attempts. Please contact support for assistance.</p>
 
         <div class="back-button">
-            <a href="login">Back to Login</a>
+            <a href="/">Back to Home</a>
         </div>
     </div>
 </body>
